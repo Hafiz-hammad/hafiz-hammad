@@ -1,7 +1,7 @@
-<h1>- 👋 Hi, I’m @Hafiz-hammad</h1>
+<h1>-@Hafiz-hammad Here</h1>
 
 <p align="center">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated Image" />
 </p>
 <!---
 Hafiz-hammad/Hafiz-hammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +13,12 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td>
       <p align="left">
-Coding is not just about writing code; it's about solving problems. Whether you're debugging a tricky issue or designing an efficient algorithm, every line of code you write brings you closer to a solution. Problem-solving skills are essential for any developer. They help you think logically and approach challenges methodically. Embrace each problem as an opportunity to learn and grow. Here's a little animation to inspire you on your coding journey.
+They help you think logically and approach challenges methodically. Embrace each problem as an opportunity to learn and grow. Here's a little animation to inspire you on your coding journey.
       </p>
     </td>
     <td>
       <p align="right">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFzMHBkd3VyMHJlMnNpM2llajBtanhxZG91OGljYXJ6ZjdnaTdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding GIF" width="650">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s" alt="Coding GIF" width="650">
       </p>
     </td>
   </tr>
