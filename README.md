@@ -1,5 +1,3 @@
-<!-- Professional Banner -->
-<img src="https://raw.githubusercontent.com/Hafiz-hammad/Hafiz-hammad/main/assets/profile-banner.svg" width="100%" alt="Hammad Bawany – Product Engineer Banner" />
 
 # Hammad Bawany  
 
@@ -52,6 +50,6 @@ A lightweight browser extension enabling instant word and phrase translations.
 
 - LinkedIn: [linkedin.com/in/hammad-bawany-39a1612a4](https://www.linkedin.com/in/hammad-bawany-39a1612a4/)  
 - Portfolio: [LearnQuran360.com](https://learnquran360.com)  
-- Email: *your-email@example.com*  
+- Email: *imranhammad859@gmail.com*  
 
 ---
