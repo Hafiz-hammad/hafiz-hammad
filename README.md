@@ -24,7 +24,7 @@ A high-performance marketing platform developed with **Next.js** and **Tailwind 
 ### [Saylani Tech Portfolio](https://saylanitechportfolio.vercel.app/)  
 A professional portfolio application engineered to represent **Saylani Tech's** digital presence. Built using a modern **Next.js** stack, it showcases a wide array of technical projects and skills, emphasizing clean architecture and scalable deployment practices.
 
-### [LearnQuran360.com](https://learnquran360.com/)  
+### [LearnQuran360](https://learnquran360.com/)  
 A comprehensive, full-stack educational platform for Quran learning. Features interactive lessons, user authentication, and a seamless learning management system, powered by **MERN stack (MongoDB, Express, React, Node.js)** for a robust and engaging experience.
 
 ### [Tap-2-Translate (Chrome Extension)](https://chromewebstore.google.com/detail/tap-2-translate/kakefdhjfcgpeaakkdnompdnclgceegl)  
@@ -55,5 +55,5 @@ A lightweight, high-utility **Chrome Extension** that enables instant, one-click
 
 - **LinkedIn:** [linkedin.com/in/hammad-bawany-39a1612a4](https://www.linkedin.com/in/hammad-bawany-39a1612a4/)  
 - **Portfolio:** [LearnQuran360.com](https://learnquran360.com)  
-- **Email:** *imranhammad859@gmail.com*  
-- **WhatsApp:** [Message Me](https://wa.me/YOUR_WHATSAPP_NUMBER) *(Replace YOUR\_WHATSAPP\_NUMBER with your full number including country code, e.g., 923001234567)*
+- **Email:** *imranhammad859@gmail.com*   
+- **WhatsApp:** [Message Me](https://wa.me/3201200650))*
